@@ -21,7 +21,7 @@ const Style = () => {
 const styles = StyleSheet.create({
   body: {
     flex: 1,
-    backgroundColor: 'red',
+    backgroundColor: 'blue',
     alignItems: 'center',
     justifyContent: 'center',
     borderWidth: 15,
